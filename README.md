@@ -47,3 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # test
 # test
 # test
+# uio-semester-planlegger
